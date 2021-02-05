@@ -1,5 +1,5 @@
 <html>
-<head><font color="WHITE">
+<head><font color="black">
 <h1>M E N U</h1>
 </head>
 <form action="#" style="width:700px class="posisi";>
@@ -10,7 +10,7 @@
 
 <font color="WHITE">
 <hr><b>MOTIVASI</b>
-<marquee><b><i><font color="RED">
+<marquee><b><i><font color="black">
 <p>BERUSAHA SELAGI MUDAH,</p>
 <p>Lebih baik kita berkeringat hari ini daripada kita harus bercucuran air mata di masa depan </p>
 <p>Dia yang gagal menguras keringat di masa muda Harus bersiap mengeluarkan air mata lebih banyak di masa tuanya</p>
