@@ -5,7 +5,7 @@
 <form action="#" style="width:700px class="posisi";>
 	<fieldset class="h"/>
 	<table style="width: 600px;">
-	<body background="image2.jpg">
+	<body background="">
 
 
 <font color="WHITE">
