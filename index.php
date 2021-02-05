@@ -1,11 +1,11 @@
 <html>
 <head><font color="black">
-<h1>M E N U</h1>
+<h1>B I O D A T A</h1>
 </head>
 <form action="#" style="width:700px class="posisi";>
 	<fieldset class="h"/>
 	<table style="width: 600px;">
-	<body background="image.jpg">
+	<body background="color:blue">
 
 
 <font color="WHITE">
