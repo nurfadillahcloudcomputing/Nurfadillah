@@ -5,10 +5,10 @@
 <form action="#" style="width:700px class="posisi";>
 	<fieldset class="h"/>
 	<table style="width: 600px;">
-	<body background="color:blue">
+	<body style="background-color:blue;">
 
 
-<font color="WHITE">
+<font color="black">
 <hr><b>MOTIVASI</b>
 <marquee><b><i><font color="black">
 <p>BERUSAHA SELAGI MUDAH,</p>
